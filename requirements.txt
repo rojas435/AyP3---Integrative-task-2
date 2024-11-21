@@ -1,0 +1,2 @@
+pip install pgmpy streamlit
+pip install experta
